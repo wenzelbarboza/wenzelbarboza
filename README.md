@@ -4,7 +4,7 @@
     alt="gif"
     width="100px"
   />
-</div>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -14,6 +14,7 @@
     />
   </a>
 </div>
+  </div>
 
 ### Hi there 👋
 
