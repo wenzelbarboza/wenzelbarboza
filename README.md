@@ -1,22 +1,21 @@
-<div id="header" aligh="center">
+<div id="header" align="center">
   <img
     src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif"
     alt="gif"
     width="100px"
   />
-
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-</div>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn Badge"
+      />
+    </a>
   </div>
 
 ### Hi there 👋
+  
+</div>
 
 <div align="center">
   <img
@@ -31,9 +30,9 @@
 ### :man_technologist: About Me :
 
 I am a Front End Developer from india
--- I enjoy building web applications
--- Exploring new technologies
--- reach me through LinkedIn
+- I enjoy building web applications
+- Exploring new technologies
+- reach me through: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
