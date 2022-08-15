@@ -14,7 +14,9 @@
     />
   </a>
 </div>
+
 ### Hi there 👋
+
 <div align="center">
   <img
     src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
