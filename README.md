@@ -5,7 +5,7 @@
     width="100px"
   />
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="www.linkedin.com/in/wenzel-barboza-89288a219">
       <img
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn Badge"
@@ -32,7 +32,7 @@
 I am a Front End Developer from india
 - I enjoy building web applications
 - Exploring new technologies
-- reach me through: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- reach me through: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/wenzel-barboza-89288a219)
 
 ---
 
